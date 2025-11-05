@@ -46,4 +46,8 @@ OPSEC-Academy
 4. Find the vulnerability
 5. report
 
+# Video demo: 
+
+[howto](https://www.patreon.com/posts/install-labs-142896382)
+
 ***Good luck everyone*** `OPSEC`
