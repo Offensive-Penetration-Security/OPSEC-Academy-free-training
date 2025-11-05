@@ -46,6 +46,10 @@ OPSEC-Academy
 4. Find the vulnerability
 5. report
 
+# Video demo for XAMPP installation: 
+
+[howto](https://www.youtube.com/watch?v=G2VEf-8nepc)
+
 # Video demo: 
 
 [howto](https://www.patreon.com/posts/install-labs-142896382)
