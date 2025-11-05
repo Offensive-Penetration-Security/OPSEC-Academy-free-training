@@ -38,5 +38,12 @@ OPSEC-Academy
       Tasks: Task-01, Task-02, Task-03
 ```
 
+# How to install every LAB
+
+1. Install [XAMPP](https://www.apachefriends.org/download.html)
+2. Extract the LAB in `htdocs` directory of your XAMPP 
+3. Setup data base and upload your .sql file
+4. Find the vulnerability
+5. report
 
 ***Good luck everyone*** `OPSEC`
