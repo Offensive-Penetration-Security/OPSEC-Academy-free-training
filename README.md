@@ -12,4 +12,4 @@ NOTE: After successfully solving the tasks which are given by some of the author
 
 | Author tasks | Number of tasks |
 | ------------- | ---------------|
-|[OPSEC](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/tree/main/Authors_of_Tasks/OPSEC) | 7 |
+|[OPSEC](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/tree/main/Authors_of_Tasks/OPSEC) | 5 |
