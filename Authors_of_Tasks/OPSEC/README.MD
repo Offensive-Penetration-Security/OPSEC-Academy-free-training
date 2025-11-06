@@ -56,12 +56,6 @@ OPSEC-Academy
   </a>
 </p>
 
-
-
-<img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png" alt="VirtualBox" width="100" height="100">
-
-<img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VirtualBox_2024_Logo.svg.png" alt="VirtualBox" width="100" height="100">
-
 # Video demo for XAMPP installation: 
 
 [howto](https://www.youtube.com/watch?v=G2VEf-8nepc)
