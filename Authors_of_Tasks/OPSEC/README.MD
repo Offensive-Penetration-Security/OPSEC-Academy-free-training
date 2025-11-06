@@ -33,6 +33,10 @@ OPSEC-Academy
       Tasks: Task-01, Task-02, Task-03
 ```
 
+# REQUIRED REPORT TEMPLATE!
+
+[link](https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/tree/main/Authors_of_Tasks/OPSEC/report)
+
 # How to install every LAB
 
 1. Install [XAMPP](https://www.apachefriends.org/download.html)
