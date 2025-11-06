@@ -46,14 +46,17 @@ OPSEC-Academy
 <p align="left">
   <a href="https://example.com">
     <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png"
-         alt="VMware Workstation / Player" width="100" height="100">
+         alt="VMware Workstation / Player" width="100" height="100"><br>
+    <sub><b>VMware</b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://example.com">
     <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VirtualBox_2024_Logo.svg.png"
-         alt="VirtualBox" width="100" height="100">
+         alt="VirtualBox" width="100" height="100"><br>
+    <sub><b>VirtualBox</b></sub>
   </a>
 </p>
+
 
 
 # Video demo for XAMPP installation: 
