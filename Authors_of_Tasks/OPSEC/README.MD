@@ -3,11 +3,6 @@
 ## WARNING! 
 - For advanced users! 
 
-## Mandatory and RECOMMENDED!
-- Learning and very useful materials!
-
-[![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/PORTSWIGGER.png)](https://portswigger.net/web-security/all-materials)
-
 ## NOTE!!! 
 - You must find all problems in every task yourself, from installation to the real problem!
 
