@@ -62,6 +62,6 @@ OPSEC-Academy
 
 # Video demo: 
 
-[howto](https://www.patreon.com/posts/install-labs-142896382)
+[howto](https://www.patreon.com/posts/opsec-vl-venv-142973442)
 
 ***Good luck everyone*** `OPSEC`
