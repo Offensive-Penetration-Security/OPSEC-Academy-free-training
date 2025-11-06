@@ -41,6 +41,10 @@ OPSEC-Academy
 4. Find the vulnerability
 5. report
 
+# Automation:
+[VB]()
+[VMw]()
+
 # Video demo for XAMPP installation: 
 
 [howto](https://www.youtube.com/watch?v=G2VEf-8nepc)
