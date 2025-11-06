@@ -43,7 +43,7 @@ OPSEC-Academy
 
 # Automation:
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+<img src="image-url" alt="Alt Text" width="300" height="200">
 
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png)
 
