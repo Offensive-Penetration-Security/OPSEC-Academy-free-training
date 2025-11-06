@@ -43,36 +43,6 @@ OPSEC-Academy
 
 # Automation:
 
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>OPSEC-VL Links</title>
-  <style>
-    .icons { display:flex; gap:12px; align-items:center; }
-    .icons a { display:inline-block; text-decoration:none; }
-  </style>
-</head>
-<body>
-  <div class="icons">
-    <!-- Each image links to example.com in a new tab -->
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer" title="Open example.com (VMware)">
-      <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png"
-           alt="VMware Workstation / Player" width="100" height="100">
-    </a>
-
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer" title="Open example.com (VirtualBox)">
-      <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VirtualBox_2024_Logo.svg.png"
-           alt="VirtualBox" width="100" height="100">
-    </a>
-  </div>
-</body>
-</html>
-
-
-
 <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png" alt="VirtualBox" width="100" height="100">
 
 <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VirtualBox_2024_Logo.svg.png" alt="VirtualBox" width="100" height="100">
