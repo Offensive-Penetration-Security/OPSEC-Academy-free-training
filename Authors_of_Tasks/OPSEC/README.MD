@@ -43,7 +43,7 @@ OPSEC-Academy
 
 # Automation:
 
-<img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png" alt="VirtualBox" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png" alt="VirtualBox" width="100" height="100">
 
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png)
 
