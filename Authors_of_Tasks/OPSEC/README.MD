@@ -42,7 +42,9 @@ OPSEC-Academy
 5. report
 
 # Automation:
+
 [VB]()
+
 [VMw]()
 
 # Video demo for XAMPP installation: 
