@@ -48,7 +48,7 @@ OPSEC-Academy
 # Automation:
 
 <p align="left">
-  <a href="http://www.mediafire.com/file/j4vshwia3twlssg/OPSEC-VL-VMware.7z">
+  <a href="https://www.mediafire.com/file/j4vshwia3twlssg/OPSEC-VL-VMware.7z/file">
     <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png"
          alt="VMware Workstation / Player" width="100" height="100">
   </a>
