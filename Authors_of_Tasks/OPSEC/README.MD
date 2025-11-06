@@ -45,7 +45,7 @@ OPSEC-Academy
 
 [VB]()
 
-[VMw]()
+[VMw](https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Authors_of_Tasks/OPSEC/docs/VMware_Workstation_Player_Icon.png)
 
 # Video demo for XAMPP installation: 
 
