@@ -14,9 +14,9 @@ STATUS:
 
 [+]Payload:
 
-"
+"""
 Your POST, GET, DROP, DELETE, etc - Payload here...
-"
+"""
 [+]PoC:
 
 """
