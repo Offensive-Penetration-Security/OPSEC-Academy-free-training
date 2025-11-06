@@ -53,7 +53,7 @@ OPSEC-Academy
          alt="VMware Workstation / Player" width="100" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://example.com">
+  <a href="https://www.mediafire.com/file/4xv9s70l8oerksu/OPSEC-VL-OVA.7z/file">
     <img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/refs/heads/main/Authors_of_Tasks/OPSEC/docs/VirtualBox_2024_Logo.svg.png"
          alt="VirtualBox" width="100" height="100">
   </a>
