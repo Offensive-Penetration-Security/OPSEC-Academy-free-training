@@ -61,26 +61,28 @@ OPSEC-Academy
 
 # After install
 
-- In every LAB from 1 - 5
+In every LAB from 1 - 5
 
-Going in:
+- Going in:
 ```
 vim /var/www/lab1/acms/initialize.php 
 ```
-on this line:
+- on this line:
 ```
 if(!defined('base_url')) define('base_url','http://localhost:8081/acms/');
 ```
-change:
+- change
 ```
 http://localhost:8081/acms/
 ```
-with your IP, for example
+- with your IP, for example
 ```
 http://192.168.1.15:8081/acms/
 ```
-Save and exit
-:x
+- Save and exit
+
+- Done! 
+
 ------------------------------------------------
 
 # Video demo for XAMPP installation: 
