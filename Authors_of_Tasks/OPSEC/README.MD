@@ -47,7 +47,7 @@ OPSEC-Academy
 4. Find the vulnerability
 5. report
 
-- - - AUTOMATION - V-ENV for beginners:
+- - - AUTOMATION - V-ENV for `beginners`:
 
 1. Download your V-ENV
 
