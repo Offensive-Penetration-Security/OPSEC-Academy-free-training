@@ -39,13 +39,17 @@ OPSEC-Academy
 
 # How to install every LAB
 
+- - - FOR ADVANCED USERS:
+
 1. Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Extract the LAB in the `htdocs` directory of your XAMPP 
 3. Set up a `database` and upload your .sql file
 4. Find the vulnerability
 5. report
 
-# Automation:
+- - - AUTOMATION - V-ENV for beginners:
+
+1. Download your V-ENV
 
 <p align="left">
   <a href="https://www.mediafire.com/file/j4vshwia3twlssg/OPSEC-VL-VMware.7z/file">
@@ -58,6 +62,9 @@ OPSEC-Academy
          alt="VirtualBox" width="100" height="100">
   </a>
 </p>
+
+2. Deploying it using the video `How To`
+3. Start the VM machine and follow the instructions `After install`
 
 # After install
 
