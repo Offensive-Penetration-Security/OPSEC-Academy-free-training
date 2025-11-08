@@ -108,6 +108,12 @@ http://192.168.1.15:8081/acms/
 
 [howto](https://www.patreon.com/posts/opsec-vl-venv-142973442)
 
+- - - OPSEC-VL machine
+
+```
+user: OPSEC-VL
+password: opsec
+```
 ----------------------------------------------
 
 # Solving of LAB 1 - SQLi - for educational purposes ONLY!
