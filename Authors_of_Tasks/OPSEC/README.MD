@@ -95,8 +95,8 @@ http://192.168.1.15:8081/acms/
 # Exam price:
 
 ```
-50$  - For college
-150$ - Outside of college
+50$  - For colleges
+150$ - Outside of colleges
 ```
 -----------------------------------------------
 
