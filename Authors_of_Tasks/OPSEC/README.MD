@@ -39,7 +39,7 @@ OPSEC-Academy
 
 # How to install every LAB
 
-- - - FOR ADVANCED USERS:
+- - - FOR ADVANCED USERS on Windows 8/10/11:
 
 1. Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Extract the LAB in the `htdocs` directory of your XAMPP 
