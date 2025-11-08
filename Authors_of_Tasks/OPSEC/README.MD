@@ -92,14 +92,6 @@ http://192.168.1.15:8081/acms/
 
 ------------------------------------------------
 
-# Exam price:
-
-```
-50$  - For colleges
-150$ - Outside of colleges
-```
------------------------------------------------
-
 # Video demo for XAMPP installation: 
 
 [howto](https://www.youtube.com/watch?v=G2VEf-8nepc)
@@ -119,5 +111,15 @@ password: opsec
 # Solving of LAB 1 - SQLi - for educational purposes ONLY!
 
 [Solving Lab1](https://www.patreon.com/posts/lab1-solving-in-143105988)
+
+----------------------------------------------
+
+# Exam price:
+
+```
+50$  - For colleges
+150$ - Outside of colleges
+```
+-----------------------------------------------
 
 ***Good luck everyone*** `OPSEC`
