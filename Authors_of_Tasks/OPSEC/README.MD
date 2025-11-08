@@ -108,4 +108,10 @@ http://192.168.1.15:8081/acms/
 
 [howto](https://www.patreon.com/posts/opsec-vl-venv-142973442)
 
+----------------------------------------------
+
+# Solving LAB1 - `SQLi` - for educational purposes ONLY!
+
+[Solving Lab1](https://www.patreon.com/posts/lab1-solving-in-143105988)
+
 ***Good luck everyone*** `OPSEC`
