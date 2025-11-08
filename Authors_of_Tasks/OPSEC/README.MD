@@ -110,7 +110,7 @@ http://192.168.1.15:8081/acms/
 
 ----------------------------------------------
 
-# Solving LAB1 - `SQLi` - for educational purposes ONLY!
+# Solving of LAB 1 - SQLi - for educational purposes ONLY!
 
 [Solving Lab1](https://www.patreon.com/posts/lab1-solving-in-143105988)
 
