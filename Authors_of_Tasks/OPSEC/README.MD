@@ -92,6 +92,14 @@ http://192.168.1.15:8081/acms/
 
 ------------------------------------------------
 
+# Exam price:
+
+```
+50$  - For college
+150$ - Outside of college
+```
+-----------------------------------------------
+
 # Video demo for XAMPP installation: 
 
 [howto](https://www.youtube.com/watch?v=G2VEf-8nepc)
